@@ -25,7 +25,7 @@ f_csv.writerow(head)
 from selenium.webdriver.firefox.options import Options
 
 # Set the path to the Firefox binary
-firefox_binary_path = r"C:\Users\yiou.sun\AppData\Local\Mozilla Firefox\firefox.exe"  # Replace with the actual path
+firefox_binary_path = r"C:\Users\yiou.sun\AppData\Local\Mozilla Firefox\firefox.exe"  
 
 # Configure Firefox options
 firefox_options = Options()
